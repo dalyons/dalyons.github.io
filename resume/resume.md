@@ -58,18 +58,18 @@ Imagine K12
 
 PlayUp
 : *Platform team lead*
-  __2012-2013__
+  __2011-2012__
   Lead the ruby platform team, architected and built a scalable, religiously REST-ful API that layered social and messaging functionality over 10,000+ live sports data streams. Supported 50,000+ users on iOS, Android, web SPA & windows phone client products.
 
 PlayUp
 : *Frontend (Backbone.js) engineer*
-  __2012__
+  __2011__
   Built a multiplayer online sports triva game based around live sports matches, as a facebook-integrated SPA.
 
 HannanIT
 : *Ruby & general development consultant*
-  __2008-2012__
-  Operated as the swiss army knife of Melbourne SME software development. Built products, integrations & solutions for dozens of companies across a variety of industries using Ruby, Java, C#, and anything else.
+  __2007-2011__
+  Operated as the swiss army knife of Melbourne SME software development. Built products, integrations & solutions for dozens of companies across a variety of industries using Ruby, Java, C#, C++, and basically anything really.
 
 ------
 
