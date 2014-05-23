@@ -12,6 +12,10 @@ In between I did a few fun things like [drive from London to Mongolia](http://da
 
 I also pretend to be handy with a camera, and occasionally I [write](http://loadedfingers.tumblr.com/).
 
+## The long version
+
+My current resume ([html](resume.html)/[pdf](resume.pdf))
+
 ## Stalk me
 
 David Lyons ([Twitter](http://twitter.com/loadedfingers)/[GitHub](http://github.com/dalyons)/[Tumblr](http://loadedfingers.tumblr.com)/[LinkedIn](http://www.linkedin.com/pub/david-lyons/24/740/56a/)).
