@@ -12,17 +12,19 @@
 
 ### Profile {#profile}
 
+Originally from Melbourne, Australia, I'm an accomplished full stack web developer with a strong ruby bent. From a DOM click event all the way through to a flushed write on a cloud array and back again, I have designed, built, led and supported at every level of the modern web stack.
+
 ------
 
 ### Skills {#skills}
 
-* Architecture & design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+* Entrepreneurship
+  : Founded a moderatly successful education startup. From first hand experience, I get the importance of a relentless customer focus & lean, data-driven product development.
 
-* API design
-  : Design, deliver and evolve scalable, dual-mode REST/Realtime APIs to multiple client platforms.
+* API/platform design
+  : Have designed, delivered and evolved scalable, dual-mode REST/Realtime APIs to multiple client platforms.
 
-* Project Direction
+* Leadership
   : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 -------
@@ -39,7 +41,7 @@
 1. SQL/Postgres/MSSQL
 1. Redis
 1. AWS/Chef/Docker/Vagrant
-1. RabbitMQ
+1. Varnish/CDN/Caching
 1. TDD/Continuous Deployment
 
 ------
