@@ -6,7 +6,7 @@
 > <i class="fa fa-twitter"></i>[@loadedfingers](http://twitter.com/loadedfingers)  
 > <i class="fa fa-github-alt"></i>[github.com/dalyons](http://github.com/dalyons)  
 > <i class="fa fa-linkedin"></i>[linkedin.com/in/lyonsdavida](http://linkedin.com/in/lyonsdavida)  
-> <i class="fa fa-mobile"></i>(650) 422-9983  
+> <i class="fa fa-mobile"></i>[(650) 422-9983](tel://1-650-422-9983)
 
 ------
 
@@ -48,19 +48,28 @@
 
 Geddit
 : *CTO*
- __2013-2014__
+  __2013-2014__
+  Designed, built and gave birth to Geddit, a realtime teacher/student feedback tool for use in K12 classrooms. We evolved a product based on feedback from real teachers and students, that's in use in over 200 classrooms. Built on Rails, Angular.js, Redis, PubNub, Cordova, blood & tears.
+
+Imagine K12
+: *Graduate*
+  __2013__
+  Graduated from the fall cohort of Imagine K12, the ed-tech accelerator founded by Tim Brady and Geoff Ralston. Recieved invaluable mentoring and coaching, as well as learning almost everything there is to know about the classrooms of tomorrow. 
 
 PlayUp
 : *Platform team lead*
   __2012-2013__
+  Lead the ruby platform team, architected and built a scalable, religiously REST-ful API that layered social and messaging functionality over 10,000+ live sports data streams. Supported 50,000+ users on iOS, Android, web SPA & windows phone client products.
 
 PlayUp
-: *Client-side app (Backbone.js) engineer*
+: *Frontend (Backbone.js) engineer*
   __2012__
+  Built a multiplayer online sports triva game based around live sports matches, as a facebook-integrated SPA.
 
 HannanIT
 : *Ruby & general development consultant*
   __2008-2012__
+  Operated as the swiss army knife of Melbourne SME software development. Built products, integrations & solutions for dozens of companies across a variety of industries using Ruby, Java, C#, and anything else.
 
 ------
 
