@@ -1,0 +1,3 @@
+[submodule "resume/markdown-resume"]
+	path = resume/markdown-resume
+	url = https://github.com/there4/markdown-resume.git
