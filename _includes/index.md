@@ -14,7 +14,7 @@ I also pretend to be handy with a camera, and occasionally I [write](http://load
 
 ## The long version
 
-My current resume ([html](resume.html)/[pdf](resume.pdf))
+My current resume ([for techies](resume_md.html)/[everyone else](resume.pdf))
 
 ## Stalk me
 
