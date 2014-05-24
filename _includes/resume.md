@@ -12,20 +12,20 @@
 
 ### Profile {#profile}
 
-Originally from Melbourne, Australia, I'm an accomplished full stack web developer with a strong ruby bent. From a DOM click event all the way through to a flushed write on a cloud array and back again, I have designed, built, led and supported at every level of the modern web stack.
+Hailing from Melbourne, Australia, I'm an accomplished full stack web developer with a strong ruby bent. From a DOM click event all the way through to a flushed write on a cloud disk array and back again, I have designed, built, led and supported at every level of the modern web stack.
 
 ------
 
 ### Skills {#skills}
 
 * Entrepreneurship
-  : Founded a moderatly successful education startup. From first hand experience, I get the importance of a relentless customer focus & lean, data-driven product development.
+  : Co-founded a popular education startup. From first hand experience, I get the importance of a relentless customer focus & lean, data-driven product development.
 
 * API/platform design
-  : Have designed, delivered and evolved scalable, dual-mode REST/Realtime APIs to multiple client platforms.
+  : Designed, delivered and evolved scalable, dual-mode REST/Realtime APIs to multiple client platforms.
 
 * Leadership
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+  : Proven ability to lead and manage a wide variety of development projects in team and independent situations.
 
 -------
 
@@ -51,12 +51,12 @@ Originally from Melbourne, Australia, I'm an accomplished full stack web develop
 Geddit
 : *CTO*
   __2013-2014__
-  Designed, built and gave birth to Geddit, a realtime teacher/student feedback tool for use in K12 classrooms. We evolved a product based on feedback from real teachers and students, that's in use in over 200 classrooms. Built on Rails, Angular.js, Redis, PubNub, Cordova, blood & tears.
+  Designed, built and gave birth to Geddit, a realtime teacher/student feedback tool for use in K12 classrooms. We evolved a product based on feedback from real teachers and students that's in use by over 4000 students. Built on Rails, Angular.js, Redis, PubNub, Cordova, blood & tears.
 
 Imagine K12
 : *Graduate*
   __2013__
-  Graduated from the fall cohort of Imagine K12, the ed-tech accelerator founded by Tim Brady and Geoff Ralston. Recieved invaluable mentoring and coaching, as well as learning almost everything there is to know about the classrooms of tomorrow. 
+  Graduated from the fall cohort of Imagine K12, the ed-tech accelerator founded by Tim Brady(Yahoo) and Geoff Ralston(YC). Received invaluable mentoring and coaching, while learning almost everything there is to know about the classrooms of tomorrow. 
 
 PlayUp
 : *Platform team lead*
@@ -66,19 +66,19 @@ PlayUp
 PlayUp
 : *Frontend (Backbone.js) engineer*
   __2011__
-  Built a multiplayer online sports triva game based around live sports matches, as a facebook-integrated SPA.
+  Built a multiplayer online sports trivia game based around live sports matches, as a Facebook-integrated SPA.
 
 HannanIT
 : *Ruby & general development consultant*
   __2007-2011__
-  Operated as the swiss army knife of Melbourne SME software development. Built products, integrations & solutions for dozens of companies across a variety of industries using Ruby, Java, C#, C++, and basically anything really.
+  Operated as the swiss army knife of Melbourne SME software development. Built products, integrations & solutions for dozens of companies across a variety of industries using Ruby, Java, C#, C++, and a few more weird and wonderful technologies.
 
 ------
 
 ### Education {#education}
 
 Monash University, Australia
-: *Bachelor of Computer Science/Bachelor of Arts (Philosopy)*
+: *Bachelor of Computer Science/Bachelor of Arts (Philosophy)*
   __2008__
   Full academic scholarship, 3.6 GPA.
 
