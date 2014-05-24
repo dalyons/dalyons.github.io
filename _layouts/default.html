@@ -9,16 +9,21 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/syntax.css">
   <link rel="stylesheet" href="css/solo.css">
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.25/skrollr.min.js"  ></script>
 {% include head.html %}
 </head>
-<body>
-  <div class="section group">
-    <div class="sidebar col span_1_of_3">
-      <img src="profile.jpg" alt="me">
+<body >
+  <div id="skrollr-body" >
+    <div class="section group">
+      <div class="sidebar col span_1_of_3">
+        <img src="profile.jpg" alt="me">
+      </div>
+      <div class="container col span_2_of_3">
+        {{ content }}
+      </div>
     </div>
-    <div class="container col span_2_of_3">
-      {{ content }}
-    </div>
+    <div class="showoff" data-0="background-position:0px -600px; " data-end="background-position: 0px 0px"></div>
+    <!--<div class="showoff" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -100px;" data-bottom-top="background-position: 50% 100px;"></div>-->
   </div>
 {% include scripts.html %}
 </body>
