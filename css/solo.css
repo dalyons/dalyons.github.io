@@ -152,11 +152,14 @@ code {
   padding-left: 1rem;
 }
 .sidebar img {
-  display: block;
-  margin-top: 6rem;
-  margin-bottom: 2rem;
   border: 1px solid grey;
   width: 300px;
+}
+
+@media (min-width: 977px) {
+  .sidebar {
+    padding-top: 6rem;
+  }
 }
 
 .showoff {
