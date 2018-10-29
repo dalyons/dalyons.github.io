@@ -26,13 +26,24 @@
     <!--<div class="showoff" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -100px;" data-bottom-top="background-position: 50% 100px;"></div>-->
   </div>
   <div id=msgme
-  class="remind-composer-button" 
-  data-text="Share on Remind" 
-  data-body="hello"
-  data-size="medium"
-  data-theme="dark"
-  >
+    class="remind-composer-button" 
+    data-text="Share on Remind" 
+    data-body="hello"
+    data-size="medium"
+    data-theme="dark"
+    >
   </div>
+<hr>
+<div id=msgbox></div>
+
+
+
 {% include scripts.html %}
+
+<script>
+  remind.renderComposer(document.getElementById('#msgbox'), { 
+    body: 'Dave is truly the best',
+  });
+  </script>
 </body>
 </html>
