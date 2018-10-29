@@ -1,3 +1,19 @@
 <script>
 skrollr.init({forceHeight: false});
 </script>
+<script>
+    window._remindAsyncInit = () => {
+      window.remind.init({
+        name: 'overwrought-spaghetti',
+        id: '907d107d-6dc5-4e3a-a75b-11a54b8b2d35'
+      });
+    };
+
+    (function(d, s, id) {
+      var js, rjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://js.remind.com/v1/remind.js';
+      rjs.parentNode.insertBefore(js, rjs);
+    })(document, 'script', 'remind-websdk');
+</script>
